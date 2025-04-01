@@ -29,7 +29,7 @@
 
 <section class="section">
     <h2>Work Experience</h2>
-    <p><strong>Software Developer Intern</strong> - Fresher(June 2024 - Present)</p>
+    <p><strong>Software Developer Intern</strong> - Fresher(Present)</p>
     <ul>
         <li>Developed web applications using HTML, CSS, JavaScript, and React.</li>
         <li>Collaborated with teams to enhance user experience and performance.</li>

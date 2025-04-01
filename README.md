@@ -3,31 +3,8 @@
 <head>
     <title>Resume</title>
 </head>
-        <body>{
-            font-family: Arial, sans-serif;
-            max-width: 800px;
-            margin: auto;
-            padding: 20px;
-            border: 1px solid #ccc;
-            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
-            background-color: #f9f9f9;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        .section {
-            margin-bottom: 20px;
-            padding: 10px;
-            background: white;
-            border-radius: 5px;
-            box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
-        }
-        ul {
-            padding-left: 20px;
-        }
-    </style>
-</head>
-<body>
+        <body>
+
     <header>
         <h1>Your Name; Spandana BP</h1>
         <p> Email:<a href="spandanabp18@gmail.com"> </a> | Phone: <a href="+91-9113514346"> </a>

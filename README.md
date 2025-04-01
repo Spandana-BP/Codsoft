@@ -1,10 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
          
-        <p>Location: Your Cit: Nagamangala; Your Country: India</p>
-    </header><section class="section">
-    <h2>Summary</h2>
-    <p>Highly motivated professional with expertise in web development, programming, and problem-solving. Passionate about learning new technologies and building innovative solutions.</p>
+       
 </section>
 
 <section class="section">

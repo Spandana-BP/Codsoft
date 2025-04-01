@@ -1,6 +1,24 @@
-<!DOCTYPE html>
-<html lang="en">
-         
+<!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+</head>
+<body><h1>Name: Spandana BP</h1>
+
+<h2>Contact Details</h2>
+<p><strong>Email:</strong> <a href="mailto:spandanabp18@gmail.com">spandanabp18@gmail.com</a></p>
+<p><strong>Phone:</strong> <a href="tel:+919113514346">+91 9113514346</a></p>
+
+<h2>Location</h2>
+<p>
+    <a href="https://www.google.com/maps/search/?api=1&query=Nagamangala,Karnataka,India" target="_blank">
+        Nagamangala, Karnataka, India
+    </a>
+</p>
+
+
+
        
 </section>
 

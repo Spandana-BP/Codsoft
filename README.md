@@ -24,7 +24,7 @@
 
 <section class="section">
     <h2>Education</h2>
-    <p><strong>Bachelor of Science in Computer Science. <br> </strong> <p>College: <a href="https://www.google.com/maps/search/?api=1&query=SAC+College+Nagamangala" target="_blank">SAC College, Nagamangala</a> | University: <a href="https://www.google.com/maps/search/?api=1&query=University+of+Mysore" target="_blank">University of Mysore</a></p>
+    <p><strong>Bachelor of Science in Computer Science(2022-2025). <br> </strong> <p>College: <a href="https://www.google.com/maps/search/?api=1&query=SAC+College+Nagamangala" target="_blank">SAC College, Nagamangala</a> <br> University: <a href="https://www.google.com/maps/search/?api=1&query=University+of+Mysore" target="_blank">University of Mysore</a></p>
 </section>
 
 <section class="section">

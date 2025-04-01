@@ -6,8 +6,7 @@
         <body>
 
      <p> <h1>Your Name; Spandana BP </h1><br>
-         Email:<a href="spandanabp18@gmail.com"> </a><br> | Phone: <a href="+91-9113514346"> </a>
-</p>
+         
         <p>Location: Your Cit: Nagamangala; Your Country: India</p>
     </header><section class="section">
     <h2>Summary</h2>

@@ -12,9 +12,9 @@
 <body>
     <header>
         <h1>Your Name:Spandana BP</h1>
-        <p>  Email:<a href=spandanabp18@gmail.com ></a>
-Phone:<a href +91-9113514346><\a>
-</p>
+          <p>Email: <a href="spandanabp18@gmail.com">spandanabp18.com</a></p>
+    
+    <p>Phone: <a href="tel:+919113514346">+91 9113514346</a></p>
         <p>Location: Your City: Nagamangal; Your Country:India</p>
     </header><section class="section">
     <h2>Summary</h2>

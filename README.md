@@ -24,7 +24,7 @@
 
 <section class="section">
     <h2>Education</h2>
-    <p><strong>Bachelor of Science in Computer Science</strong>University of Mysore (2022-2025)</p>
+    <p><strong>Bachelor of Science in Computer Science.  </strong>University of Mysore (2022-2025)</p>
 </section>
 
 <section class="section">

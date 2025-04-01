@@ -2,9 +2,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Resume</title>
+    <h1>Resume</h1>
 </head>
-<body><h1>Name: Spandana BP</h1>
+<body><h2>Name: Spandana BP</h2>
 
 <h2>Contact Details</h2>
 <p><strong>Email:</strong> <a href="mailto:spandanabp18@gmail.com">spandanabp18@gmail.com</a></p>

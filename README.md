@@ -1,37 +1,18 @@
-<!DOCTYPE html><html lang="en">
+<!DOCTYPE html>
+<html lang="en">
+
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Resume</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            max-width: 800px;
-            margin: auto;
-            padding: 20px;
-            border: 1px solid #ccc;
-            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
-            background-color: #f9f9f9;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        .section {
-            margin-bottom: 20px;
-            padding: 10px;
-            background: white;
-            border-radius: 5px;
-            box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
-        }
-        ul {
-            padding-left: 20px;
-        }
-    </style>
 </head>
+
+
 <body>
     <header>
         <h1>Your Name: Spandana B p</h1>
-        <p>Email: your.email@example.com | Phone: +91-1234567890</p>
+        <p>Email: spandanabp18@gmail.com | Phone: +91-9113514346</p>
         <p>Location: Your City: Nagamangal; Your Country:India</p>
     </header><section class="section">
     <h2>Summary</h2>
@@ -40,12 +21,12 @@
 
 <section class="section">
     <h2>Education</h2>
-    <p><strong>Bachelor of Technology in Computer Science</strong> - XYZ University (2021-2025)</p>
+    <p><strong>Bachelor of Science in Computer Science</strong> - University of Mysore (2022-2025)</p>
 </section>
 
 <section class="section">
     <h2>Work Experience</h2>
-    <p><strong>Software Developer Intern</strong> - ABC Tech (June 2024 - Present)</p>
+    <p><strong>Fresher </strong> - Student(June 2024 - Present)</p>
     <ul>
         <li>Developed web applications using HTML, CSS, JavaScript, and React.</li>
         <li>Collaborated with teams to enhance user experience and performance.</li>

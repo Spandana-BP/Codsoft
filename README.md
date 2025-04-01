@@ -24,12 +24,12 @@
 
 <section class="section">
     <h2>Education</h2>
-    <p><strong>Bachelor of Technology in Computer Science</strong> - XYZ University (2021-2025)</p>
+    <p><strong>Bachelor of Science in Computer Science</strong>University of Mysore (2022-2025)</p>
 </section>
 
 <section class="section">
     <h2>Work Experience</h2>
-    <p><strong>Software Developer Intern</strong> - ABC Tech (June 2024 - Present)</p>
+    <p><strong>Software Developer Intern</strong> - Fresher(June 2024 - Present)</p>
     <ul>
         <li>Developed web applications using HTML, CSS, JavaScript, and React.</li>
         <li>Collaborated with teams to enhance user experience and performance.</li>

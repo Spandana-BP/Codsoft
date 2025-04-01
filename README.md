@@ -1,11 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <title> Resume </title>
-</head>
-        <body>
-
-     <p> <h1>Your Name; Spandana BP </h1><br>
          
         <p>Location: Your Cit: Nagamangala; Your Country: India</p>
     </header><section class="section">

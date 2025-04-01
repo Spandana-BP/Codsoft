@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Resume</title>
+    <title> Resume </title>
 </head>
         <body>
 
-    <header>
-        <h1>Your Name; Spandana BP</h1>
+     <h1>Your Name; Spandana BP</h1>
         <p> Email:<a href="spandanabp18@gmail.com"> </a> | Phone: <a href="+91-9113514346"> </a>
 </p>
         <p>Location: Your Cit: Nagamangala; Your Country: India</p>

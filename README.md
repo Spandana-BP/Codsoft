@@ -47,7 +47,7 @@
         <h2>Spandana BP</h2>
         <p><strong>Student | Fresher</strong></p>
 
-        <div class="contact-info">
+        <p>Contact Information</p>
             <p>Email: <a href="mailto:spandanabp18@gmail.com">spandanabp18@gmail.com</a></p>
             <p>Phone: <a href="tel:+919113514346">+91 9113514346</a></p>
         </div>

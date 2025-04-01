@@ -11,8 +11,8 @@
 
 <body>
     <header>
-        <h1>Your Name: Spandana B p</h1>
-        <p>Email: spandanabp18@gmail.com | Phone: +91-9113514346</p>
+        <h1>Your Name:@Spandana-BP</h1>
+        <p><a href Email: spandanabp18@gmail.com ></a>|<a href Phone: +91-9113514346><\a></p>
         <p>Location: Your City: Nagamangal; Your Country:India</p>
     </header><section class="section">
     <h2>Summary</h2>

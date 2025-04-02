@@ -13,7 +13,13 @@
 
 <section id="about">
         <h2>About Me</h2>
-        <img src="https://photos.app.goo.gl/y7dqD2jEq4XasexJA" alt="Your Photo" width="150">
+        <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+  data-link="https://photos.app.goo.gl/y7dqD2jEq4XasexJA"
+  data-title="New item by SPANDANA B P">
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczPQUxlLNgbsqvW2cNcE2RU_WD5TAXCmWBu5cRSsVvY_azr3YYfFJvOxMe4hJpvEq2IpQEkUY36U-zVWNRitKbuU4yVUE3nXu5Lng0jtYN_cZevxpcI=w1920-h1080"></object>
+</div>
+ alt="Your Photo" width="150">
         <p>Hello! I'm a passionate web developer with expertise in HTML, CSS, and JavaScript.</p>
         <p>I enjoy creating beautiful and functional websites. I am always eager to learn new technologies and improve my skills.</p>
         <p>My goal is to build user-friendly and accessible web applications that make a positive impact.</p>

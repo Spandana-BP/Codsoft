@@ -13,10 +13,22 @@
 
 <div class="about">
             <h2>About Me</h2></div>
+content="width=device-width, initial-scale=1.0">
+    <title>My Photo</title>
+    <style>
+        .photo {
+            text-align: left;
+            margin-left: 20px;
+        }
+        img {
+            width: 150px;
+            height: auto;
+            border-radius: 10px;
  <div class="container">
         <div class="photo">
             <img src="https://drive.google.com/uc?export=view&id=1_1cIxcZz6oqGkjvqXvYkq3dRFIWc6kE_" alt="My Photo">
         </div>
+</style>
         
           
 

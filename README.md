@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <h1>Resume</h1>
+    <h1><b>portfolio</b></h1>
 </head> 
 <body><h2>Name: Spandana BP</h2>
 

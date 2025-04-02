@@ -68,17 +68,4 @@
     </div>
 
   
-    <div class="footer">
-        <p>Connect with me:</p>
-        <div class="social-icons">
-            <a href="https://github.com/Spandana-BP" target="_blank">
-                <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub">
-            </a>
-            <a href="https://www.linkedin.com/in/spandana-b-p-769499303" target="_blank">
-                <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn">
-            </a>
-            <a href="https://www.instagram.com/spandana.bp" target="_blank">
-                <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram">
-            </a>
-        </div>
-    </div>
+  

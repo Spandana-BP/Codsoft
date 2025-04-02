@@ -19,8 +19,8 @@
 
    <p>I’m <b>Spandana Parmesh</b>, an enthusiastic <b>IT fresher</b> passionate about <b>web development, artificial intelligence, and machine learning</b>. 
                
-               My goal is to create <b>impactful digital solutions</b> while continuously learning and evolving in the tech industry. 
-               I believe in <b>hard work, creativity, and consistency</b>, and I’m eager to contribute to meaningful projects       
+             <p>  My goal is to create <b>impactful digital solutions</b> while continuously learning and evolving in the tech industry. </p>
+             <p>  I believe in <b>hard work, creativity, and consistency</b>, and I’m eager to contribute to meaningful projects</p>     
     
 
 <h2>Location</h2>

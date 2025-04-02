@@ -18,7 +18,7 @@
         <img class="photo" src="https://drive.google.com/uc?export=view&id=1_1cIxcZz6oqGkjvqXvYkq3dRFIWc6kE_" alt="My Photo">
 
    <p>I’m <b>Spandana Parmesh</b>, an enthusiastic <b>IT fresher</b> passionate about <b>web development, artificial intelligence, and machine learning</b>. 
-               I enjoy exploring new technologies, building innovative projects, and sharing knowledge through digital platforms like <b>YouTube and ShareChat</b>. 
+               
                My goal is to create <b>impactful digital solutions</b> while continuously learning and evolving in the tech industry. 
                I believe in <b>hard work, creativity, and consistency</b>, and I’m eager to contribute to meaningful projects       
     

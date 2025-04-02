@@ -66,12 +66,51 @@
         <h2>Download My Resume</h2>
         <a href="https://drive.google.com/uc?export=download&id=YOUR_RESUME_FILE_ID" class="download-btn">Download PDF</a>
     </div>
+  .footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            position: relative;
+            width: 100%;
+            bottom: 0;
+        }
+        .footer a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 18px;
+        }
+        .footer a:hover {
+            color: #007bff;
+        }
+        .social-icons {
+            margin-top: 10px;
+        }
+        .social-icons a {
+            margin: 0 10px;
+            display: inline-block;
+        }
+        .social-icons img {
+            width: 30px;
+            height: 30px;
+            vertical-align: middle;
+        }
+    </style>
+</head>
+<body>
 
-<section class="section">
-    <h2>Contact</h2>
-    <p>LinkedIn: <a href="https://www.linkedin.com/in/spandana-b-p-769499303">Your Profile</a></p>
-    <p>Instagram: <a href="https://www.instagram.com/spandana.bp">Your Profile</a></p>
-</section>
-
-</body>
-</html>
+    <div class="footer">
+        <p>Connect with me:</p>
+        <div class="social-icons">
+            <a href="https://github.com/Spandana-BP" target="_blank">
+                <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub">
+            </a>
+            <a href="https://www.linkedin.com/in/spandana-b-p-769499303" target="_blank">
+                <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn">
+            </a>
+            <a href="https://www.instagram.com/spandana.bp" target="_blank">
+                <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram">
+            </a>
+        </div>
+    </div>

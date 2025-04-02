@@ -11,13 +11,12 @@
 <p> <strong>Email:</strong> <a href="mailto:spandanabp18@gmail.com">spandanabp18@gmail.com</a></p>
 <p><strong>Phone:</strong> <a href="tel:+919113514346">+91 9113514346</a></p>
 
- <div class="container">
-        <!-- Photo -->
-        <img class="photo" src="https://drive.google.com/uc?export=view&id=1_1cIxcZz6oqGkjvqXvYkq3dRFIWc6kE_" alt="My Photo">
-
-        <!-- About Me (Overlay on Image) -->
         <div class="about">
             <h2>About Me</h2>
+
+ <div class="container">
+        <img class="photo" src="https://drive.google.com/uc?export=view&id=1_1cIxcZz6oqGkjvqXvYkq3dRFIWc6kE_" alt="My Photo">
+
             <p>Hi, I'm Spandana Parmesh, an IT fresher passionate about web development and AI.  
                I love creating digital projects and sharing knowledge.  
                My goal is to innovate and grow in the tech industry.  

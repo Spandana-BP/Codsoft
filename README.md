@@ -17,10 +17,9 @@
  <div class="container">
         <img class="photo" src="https://drive.google.com/uc?export=view&id=1_1cIxcZz6oqGkjvqXvYkq3dRFIWc6kE_" alt="My Photo">
 
-   <p>I’m <b>Spandana Parmesh</b>, an enthusiastic <b>IT fresher</b> passionate about <b>web development, artificial intelligence, and machine learning</b>. 
-               
-               My goal is to create <b>impactful digital solutions</b> while continuously learning and evolving in the tech industry. 
-             I believe in <b>hard work, creativity, and consistency</b>, and I’m eager to contribute to meaningful projects</p>     
+   <p>I’m <b>Spandana Parmesh</b>, an enthusiastic <b>IT fresher</b> passionate about <b>web development, artificial intelligence, and machine learning <br>   My goal is to create <b>impactful digital solutions</b> while continuously learning and evolving in the tech industry. 
+             I believe in <b>hard work, creativity, and consistency</b>, and I’m eager to contribute to meaningful projects</b>. 
+              </p>     
     
 
 <h2>Location</h2>

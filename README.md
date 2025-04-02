@@ -66,6 +66,7 @@
         <h2>Download My Resume</h2>
         <a href="https://drive.google.com/uc?export=download&id=YOUR_RESUME_FILE_ID" class="download-btn">Download PDF</a>
     </div>
+
   .footer {
             background: #333;
             color: white;
@@ -96,10 +97,7 @@
             height: 30px;
             vertical-align: middle;
         }
-    </style>
-</head>
-<body>
-
+ 
     <div class="footer">
         <p>Connect with me:</p>
         <div class="social-icons">

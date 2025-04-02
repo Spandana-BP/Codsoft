@@ -13,7 +13,9 @@
 
         <h2>About Me</h2>
  
-        
+         <div class="photo">
+        <img src="https://drive.google.com/uc?export=view&id=1_1cIxcZz6oqGkjvqXvYkq3dRFIWc6kE_" alt="My Photo">
+    </div>
 
         <p>Hello! I'm a passionate web developer with expertise in HTML, CSS, and JavaScript.</p>
         <p>I enjoy creating beautiful and functional websites. I am always eager to learn new technologies and improve my skills.</p>

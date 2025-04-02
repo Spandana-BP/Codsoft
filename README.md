@@ -14,11 +14,6 @@
 <section id="about">
         <h2>About Me</h2>
  
-display: flex;
-            align-items: center;
-            height: 100vh;
-            background-color: #f5f5f5;
-        }
         .photo {
             margin-left: 20px;
         }

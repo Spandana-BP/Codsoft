@@ -8,7 +8,7 @@
 <body><h2>Name: Spandana BP</h2>
 
 <h2>Contact Details</h2>
-<p><strong>Email:</strong> <a href="mailto:spandanabp18@gmail.com">spandanabp18@gmail.com</a></p>
+<p> <img src="IMG_20250316_133106.jpg" alt="Your Photo" width="150"> <strong>Email:</strong> <a href="mailto:spandanabp18@gmail.com">spandanabp18@gmail.com</a></p>
 <p><strong>Phone:</strong> <a href="tel:+919113514346">+91 9113514346</a></p>
 
 <h2>Location</h2>

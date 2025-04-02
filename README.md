@@ -12,73 +12,7 @@
 <p><strong>Phone:</strong> <a href="tel:+919113514346">+91 9113514346</a></p>
 
 
-     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        body {
-            font-family: Arial, sans-serif;
-            display: flex;
-            height: 100vh;
-            align-items: center;
-            justify-content: center;
-            padding: 20px;
-        }
-        .container {
-            display: flex;
-            width: 80%;
-            max-width: 900px;
-            border: 2px solid #ddd;
-            border-radius: 10px;
-            padding: 20px;
-            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-        }
-        .photo {
-            flex: 1;
-            text-align: center;
-        }
-        .photo img {
-            width: 100%;
-            max-width: 300px;
-            border-radius: 10px;
-        }
-        .about {
-            flex: 1;
-            padding-left: 20px;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-        }
-        .about h2 {
-            color: #333;
-            margin-bottom: 10px;
-        }
-        .about p {
-            color: #555;
-            line-height: 1.6;
-        }
-    </style>
-</head>
-<body>
-
-    <div class="container">
-        <!-- Left Side: Photo -->
-        <div class="photo">
-            <img src="https://drive.google.com/uc?export=view&id=1_1cIxcZz6oqGkjvqXvYkq3dRFIWc6kE_" alt="My Photo">
-        </div>
-
-        <!-- Right Side: About Me -->
-        <div class="about">
-            <h2>About Me</h2>
-            <p>Hi, I'm Spandana Parmesh, an aspiring IT professional.  
-               I am passionate about web development, AI, and machine learning.  
-               I love creating innovative solutions and sharing knowledge.  
-               Currently, I am learning and building projects to improve my skills.  
-               My goal is to contribute meaningfully to the tech world.</p>
-        </div>
-    </div>         
+    
 
 <h2>Location</h2>
 <p>

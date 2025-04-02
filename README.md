@@ -13,8 +13,7 @@
 
 <div class="about">
             <h2>About Me</h2></div>
-content="width=device-width, initial-scale=1.0">
-    <title>My Photo</title>
+    <h3>My Photo</h3>
     <style>
         .photo {
             text-align: left;

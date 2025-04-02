@@ -11,12 +11,13 @@
 <p> <strong>Email:</strong> <a href="mailto:spandanabp18@gmail.com">spandanabp18@gmail.com</a></p>
 <p><strong>Phone:</strong> <a href="tel:+919113514346">+91 9113514346</a></p>
 
+<div class="about">
+            <h2>About Me</h2></div>
  <div class="container">
         <div class="photo">
             <img src="https://drive.google.com/uc?export=view&id=1_1cIxcZz6oqGkjvqXvYkq3dRFIWc6kE_" alt="My Photo">
         </div>
-        <div class="about">
-            <h2>About Me</h2>
+        
             <p>I'm a passionate IT fresher with skills in web development and AI. Excited to learn and build projects!</p>
         </div>
     </div>

@@ -18,9 +18,7 @@
             <img src="https://drive.google.com/uc?export=view&id=1_1cIxcZz6oqGkjvqXvYkq3dRFIWc6kE_" alt="My Photo">
         </div>
         
-            <p>I'm a passionate IT fresher with skills in web development and AI. Excited to learn and build projects!</p>
-        </div>
-    </div>
+          
 
 <h2>Location</h2>
 <p>

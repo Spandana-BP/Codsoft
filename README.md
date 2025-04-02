@@ -68,7 +68,7 @@
     </div>
 
  <footer style="background: #333; color: white; text-align: center; padding: 15px; font-size: 18px;">
-    <p>Connect with me:</p>
+    <p><h2><b>Connect with me through social media:</b></h2></p>
     <p>GitHub: <a href="https://github.com/Spandana-BP" target="_blank" style="color: white; text-decoration: none;">Spandana-BP</a></p>
     <p>LinkedIn: <a href="https://www.linkedin.com/in/spandana-b-p-769499303" target="_blank" style="color: white; text-decoration: none;">Spandana B P</a></p>
     <p>Instagram: <a href="https://www.instagram.com/spandana.bp" target="_blank" style="color: white; text-decoration: none;">spandana.bp</a></p>

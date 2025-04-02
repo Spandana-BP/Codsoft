@@ -62,6 +62,11 @@
     <p><strong>Weather App</strong> - Created a web-based weather application using API integration to fetch real-time weather data.</p>
 </section>
 
+<div class="resume-section">
+        <h2>Download My Resume</h2>
+        <a href="https://drive.google.com/uc?export=download&id=YOUR_RESUME_FILE_ID" class="download-btn">Download PDF</a>
+    </div>
+
 <section class="section">
     <h2>Contact</h2>
     <p>LinkedIn: <a href="https://www.linkedin.com/in/spandana-b-p-769499303">Your Profile</a></p>

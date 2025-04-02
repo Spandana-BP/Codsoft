@@ -17,12 +17,12 @@
  <div class="container">
         <img class="photo" src="https://drive.google.com/uc?export=view&id=1_1cIxcZz6oqGkjvqXvYkq3dRFIWc6kE_" alt="My Photo">
 
-            <p>Hi, I'm Spandana Parmesh, an IT fresher passionate about web development and AI.  
+         <script>  <p>Hi, I'm Spandana Parmesh, an IT fresher passionate about web development and AI.  
                I love creating digital projects and sharing knowledge.  
                My goal is to innovate and grow in the tech industry.  
                I actively build projects that solve real-world problems.  
                Exploring new technologies keeps me excited and motivated.</p>
-        </div>
+        </script>
     </div>
     
 

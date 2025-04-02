@@ -13,7 +13,7 @@
 
 <section id="about">
         <h2>About Me</h2>
-        <img src="your-image.jpg" alt="Your Photo" width="150">
+        <img src="https://photos.app.goo.gl/y7dqD2jEq4XasexJA" alt="Your Photo" width="150">
         <p>Hello! I'm a passionate web developer with expertise in HTML, CSS, and JavaScript.</p>
         <p>I enjoy creating beautiful and functional websites. I am always eager to learn new technologies and improve my skills.</p>
         <p>My goal is to build user-friendly and accessible web applications that make a positive impact.</p>

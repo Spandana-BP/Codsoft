@@ -13,7 +13,7 @@
 
 <section id="about">
         <h2>About Me</h2>
-         <!-- Instagram Post Embed -->
+       
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DHd7Gh2T0_CzhXaWZ0cMM3dVXb54LaxZP7p3280/" data-instgrm-version="14"></blockquote>
 <script async src="https://www.instagram.com/embed.js"></script>
 

@@ -67,37 +67,7 @@
         <a href="https://drive.google.com/uc?export=download&id=YOUR_RESUME_FILE_ID" class="download-btn">Download PDF</a>
     </div>
 
-  .footer {
-            background: #333;
-            color: white;
-            text-align: center;
-            padding: 15px;
-            position: relative;
-            width: 100%;
-            bottom: 0;
-        }
-        .footer a {
-            color: white;
-            text-decoration: none;
-            margin: 0 15px;
-            font-size: 18px;
-        }
-        .footer a:hover {
-            color: #007bff;
-        }
-        .social-icons {
-            margin-top: 10px;
-        }
-        .social-icons a {
-            margin: 0 10px;
-            display: inline-block;
-        }
-        .social-icons img {
-            width: 30px;
-            height: 30px;
-            vertical-align: middle;
-        }
- 
+  
     <div class="footer">
         <p>Connect with me:</p>
         <div class="social-icons">

@@ -11,24 +11,7 @@
 <p> <strong>Email:</strong> <a href="mailto:spandanabp18@gmail.com">spandanabp18@gmail.com</a></p>
 <p><strong>Phone:</strong> <a href="tel:+919113514346">+91 9113514346</a></p>
 
-<div class="about">
-            <h2>About Me</h2></div>
-    <h3>My Photo</h3>
-    <style>
-        .photo {
-            text-align: left;
-            margin-left: 20px;
-        }
-        img {
-            width: 150px;
-            height: auto;
-            border-radius: 10px;
- <div class="container">
-        <div class="photo">
-            <img src="https://drive.google.com/uc?export=view&id=1_1cIxcZz6oqGkjvqXvYkq3dRFIWc6kE_" alt="My Photo">
-        </div>
-</style>
-        
+
           
 
 <h2>Location</h2>
